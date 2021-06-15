@@ -1,4 +1,4 @@
-# <p align="center" > HI there! <img src = "https://tenor.com/view/hi-wave-gif-10604183" width=50 height=50 />My Name is Muskan  <img src="https://giphy.com/stickers/packs/effects" height=50 width="50"/></p>
+# <p align="center" > HI there! <img src = "https://tenor.com/view/hi-wave-gif-10604183" width=50 height=50 />My Name is Muskan  <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" height=50 width="50"/></p>
 <!--
 
 
