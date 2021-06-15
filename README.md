@@ -13,4 +13,4 @@
 -->
 
 👯 I’m looking to collaborate on IOT projects and technologies.
-📫 How to reach me: muskaan.sawa@gmail.com
+<br>📫 How to reach me: muskaan.sawa@gmail.com
