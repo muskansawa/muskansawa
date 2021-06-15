@@ -1,7 +1,6 @@
-# <p align="center" >   <img src = "https://media.giphy.com/media/3ohs4f2bZ4jSd2q5tS/giphy.gif" width=50 height=50 /> <img src="https://media.giphy.com/media/zJ3V6Ot51H8Y0/giphy.gif" height=50 width="50"/> <br>My Name is Muskan    </p>   
+# <p align="center" >   <img src = "https://media.giphy.com/media/3ohs4f2bZ4jSd2q5tS/giphy.gif" width=50 height=50 /> <img src="https://media.giphy.com/media/zJ3V6Ot51H8Y0/giphy.gif" height=50 width="50"/> <br>My Name is Muskan !</p>   
 <!--
-
-
+ 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,7 +13,7 @@ https://giphy.com/search/transparent-hi
 https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif
 -->
 
-## <img src="https://media.giphy.com/media/OOkuWV0M23iS2C8DwZ/giphy.gif" height=50 width="50"/> I’m looking to collaborate on  :<br>
+## <img src="https://media.giphy.com/media/QVrl51cw5jfKsezqtL/giphy.gif" height=50 width="50"/> I’m looking to collaborate on  :<br>
 * IOT projects
 * Machine learning 
 * Deep learning and neural networks
@@ -27,4 +26,4 @@ https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif
 * [stackoverflow](https://stackoverflow.com/users/12084755/muskan-litw)
 <!--* [Leetcode](https://leetcode.com/muskan_sawa26/) -->
 
-<br>📫 How to reach me: muskaan.sawa@gmail.com
+<br>📫 How to reach me: muskaan.sawa@gmail.com <img src="https://media.giphy.com/media/OOkuWV0M23iS2C8DwZ/giphy.gif" height=50 width="50"/>
