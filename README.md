@@ -1,4 +1,4 @@
-### Hi there 👋,My name is Muskan!
+# <p align="center" > HI there! <img src = "https://tenor.com/view/hi-wave-gif-10604183" width=50 height=50 />My Name is Muskan  <img src="https://tenor.com/view/hi-hello-wave-gif-9462745" height=50 width="50"/></p>
 <!--
 
 
