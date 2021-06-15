@@ -1,4 +1,4 @@
-# <p align="center" >   <img src = "https://media.giphy.com/media/3ohs4f2bZ4jSd2q5tS/giphy.gif" width=50 height=50 /> <img src="https://media.giphy.com/media/zJ3V6Ot51H8Y0/giphy.gif" height=50 width="50"/> <br>My Name is Muskan   </p>
+# <p align="center" >   <img src = "https://media.giphy.com/media/3ohs4f2bZ4jSd2q5tS/giphy.gif" width=50 height=50 /> <img src="https://media.giphy.com/media/zJ3V6Ot51H8Y0/giphy.gif" height=50 width="50"/> <br>My Name is Muskan    </p>   
 <!--
 
 
@@ -14,7 +14,7 @@ https://giphy.com/search/transparent-hi
 https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif
 -->
 
-## 👯 I’m looking to collaborate on  :<br>
+## <img src="https://media.giphy.com/media/OOkuWV0M23iS2C8DwZ/giphy.gif" height=50 width="50"/> I’m looking to collaborate on  :<br>
 * IOT projects
 * Machine learning 
 * Deep learning and neural networks
