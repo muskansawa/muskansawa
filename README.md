@@ -26,4 +26,7 @@ https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif
 * [stackoverflow](https://stackoverflow.com/users/12084755/muskan-litw)
 <!--* [Leetcode](https://leetcode.com/muskan_sawa26/) -->
 
-<br>📫 How to reach me: muskaan.sawa@gmail.com <img src="https://media.giphy.com/media/OOkuWV0M23iS2C8DwZ/giphy.gif" height=50 width="50"/>
+<br>
+<p ><img src="https://media.giphy.com/media/OOkuWV0M23iS2C8DwZ/giphy.gif" height=50 width="50"/>📫 How to reach me: muskaan.sawa@gmail.com  </p>
+
+<br> 
