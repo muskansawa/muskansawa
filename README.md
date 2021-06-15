@@ -12,5 +12,11 @@
 - ⚡ Fun fact: ...
 -->
 
-👯 I’m looking to collaborate on IOT projects and technologies.
+👯 I’m looking to collaborate on  :<br>
+* IOT projects
+* Machine learning 
+* Deep learning and neural networks
+* Image classification
+* Projects and initiatives for the betterment of the society and environment😄.
+
 <br>📫 How to reach me: muskaan.sawa@gmail.com
