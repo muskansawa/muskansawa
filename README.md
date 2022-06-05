@@ -17,6 +17,7 @@ https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif
 * IOT projects
 * Machine learning 
 * Deep learning and neural networks
+* Reinforcement learning
 * Image classification
 * Projects and initiatives for the betterment of the society and environment😄.
 
