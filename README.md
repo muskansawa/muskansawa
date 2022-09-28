@@ -25,7 +25,7 @@ https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif
 * [Linkedin](https://www.linkedin.com/in/muskan-sawa-037758151/)
 * [Medium](https://muskaan-sawa.medium.com/)
 * [stackoverflow](https://stackoverflow.com/users/12084755/muskan-litw)
-#* [Leetcode](https://leetcode.com/muskan_sawa26/)
+* [Leetcode](https://leetcode.com/muskan_sawa26/)
   
 
 <br>
